@@ -1,0 +1,96 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+:root{
+    /*--primary-color : #FFC900;*/
+    /*--white-color : #FAFBFB;*/
+    /*--black-color : #1A232B;*/
+    /*--grey-color : #2F3941;*/
+}
+
+.header{
+    /* background-image:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(../images/index/bg.jpg); */
+    /* background-color: var(--white-color) !important;; */
+    width: 100%;
+    /* height: 100vh;
+    background-position: center;
+    background-size: cover; */
+}
+.navbar-brand{
+/*    color: var(--primary-color) !important;*/
+      color:#FFC900;
+}
+.active{
+    /*color: var(--primary-color) !important;*/
+    color:#FFC900;
+    border-bottom: 2px solid #FFC900; 
+}
+.navbar ul li a:hover{
+    /*color: var(--primary-color) !important;*/
+    color:#FFC900;
+/*    border-bottom:2px solid var(--primary-color);*/
+border-bottom:2px solid #FFC900;
+}
+.middle{
+    height:100%;
+    width: 100%;
+  
+    
+    
+
+    
+}
+
+.header2{
+    /* background-image:linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(../images/index/bg.jpg); */
+    /*background-color: var(--white-color) !important;*/
+    /* border: black solid; */
+    background-color:#FAFBFB;
+    width: 100%;
+    height: 90vh;
+   
+}
+
+
+#htxt{
+    margin-top: 20vh;
+}
+#himg{
+    margin-top: 10vh;
+
+    
+}
+
+#aboutsection{
+    margin-top: 25px;
+}
+#cardtxt{
+    padding: 20px;
+}
+#cardimg{
+    padding: 20px;
+}
+
+#contactsection{
+    margin-top: 50px;
+}
+#imgform{
+   padding: 50px;
+
+}
+
+#contactform{
+
+    
+    padding: 50px;
+    margin: 40px;
+    margin-top: 70px;
+}
+
+

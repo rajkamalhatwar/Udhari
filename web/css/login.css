@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+:root{
+    --primary-color : #FFC900;
+     --white-color : #FAFBFB;
+    --black-color : #1A232B;
+    --grey-color : #2F3941;
+}
+a {
+    text-decoration: none;
+}
+.login-page {
+    width: 100%;
+    height: 100vh;
+    display: inline-block;
+    display: flex;
+    align-items: center;
+}
+.form-right i {
+    font-size: 100px;
+}
+.logheading{
+    padding-top: 6px;
+    
+    
+}
+
+.logheading p a{
+    color : black;
+    
+}
+#logimg{
+    padding: 35px;
+    margin-top: 60px;
+}
